@@ -1,0 +1,9 @@
+q0, ,qpari_t,A,R
+qpari_t,@,qdispari_t,@,R
+qpari_t, ,qreturn_p, ,L
+qdispari_t,@,qpari_t,@,R
+qdispari_t, ,qreturn_d, ,L
+qreturn_p,@,qreturn_p,@,L
+qreturn_d,@,qreturn_d,@,L
+qreturn_p,A,qpari, ,S
+qreturn_d,A,qdispari, ,S

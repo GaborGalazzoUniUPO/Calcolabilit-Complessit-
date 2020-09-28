@@ -1,0 +1,10 @@
+q0, ,q1, ,R
+q1,c,q1,c,R
+q1,i,q1,i,R
+q1,a,q1,a,R
+q1,o,q2,o,R
+q2, ,q2,e,L
+q2,o,q2,v,L
+q2,a,q2,l,L
+q2,i,q2,a,L
+q2,c,q3,s,L
