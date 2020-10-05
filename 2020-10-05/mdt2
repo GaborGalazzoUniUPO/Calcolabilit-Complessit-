@@ -21,6 +21,7 @@ PER TERMINAZIONE
 q0, ,q1, ,R
 q1,1,q3,1,R
 q1,0,q2,0,R
+!! q1, ,q1, ,S
 q2,0,q2,0,R
 q3,0,q3,0,R
 q2,1,q2,1,R
