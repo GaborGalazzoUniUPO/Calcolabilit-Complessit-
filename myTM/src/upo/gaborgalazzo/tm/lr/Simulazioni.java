@@ -63,7 +63,7 @@ public class Simulazioni {
 					deltaLR.addLine(
 							state,
 							c,
-							deltaLRS.getCurrentState(j),
+							deltaLRS.getNewState(j),
 							c,
 							'L'
 					);
