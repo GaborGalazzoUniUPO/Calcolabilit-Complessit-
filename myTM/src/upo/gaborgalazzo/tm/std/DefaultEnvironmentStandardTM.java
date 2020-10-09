@@ -12,7 +12,7 @@
  * @author Lavinia Egidi
  * @date Jan 2015
  *******************************************/
-package upo.gaborgalazzo.tm;
+package upo.gaborgalazzo.tm.std;
 
 import it.uniupo.mdtLib.EnvironmentStaticInterface;
 import it.uniupo.mdtLib.State;
@@ -22,7 +22,7 @@ public class DefaultEnvironmentStandardTM implements EnvironmentStaticInterface 
 
     //***************these constants can be customized***********
     //path and files
-    public static final String PATH = "./";
+    public static final String PATH = "./data/";
     private static final String DELTA_FILE = "delta_base";
     private static final String RUN_LOG_FILE = "runlog_base";
     private static final String OUTFILE = "output";

@@ -1,4 +1,4 @@
-package upo.gaborgalazzo.tm;
+package upo.gaborgalazzo.tm.std;
 
 
 import static it.uniupo.mdtLib.EnvironmentStaticInterface.HALTED;

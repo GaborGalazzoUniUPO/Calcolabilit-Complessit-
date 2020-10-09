@@ -8,7 +8,7 @@
  * @author Lavinia Egidi
  * @date Jan 2015
  ****************************************/
-package upo.gaborgalazzo.tm;
+package upo.gaborgalazzo.tm.std;
 
 import it.uniupo.mdtLib.ConfigOutput;
 import it.uniupo.mdtLib.DynamicEnvironment;

@@ -19,6 +19,4 @@ out/
 # JIRA plugin
 atlassian-ide-plugin.xml
 
-runlog_base
-testTM
-delta_base
+data

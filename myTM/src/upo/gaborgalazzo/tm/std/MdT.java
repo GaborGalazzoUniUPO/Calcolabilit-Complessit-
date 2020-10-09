@@ -7,7 +7,7 @@
  * @author Lavinia Egidi
  * @date Jan 2015
  *********************************************/
-package upo.gaborgalazzo.tm;
+package upo.gaborgalazzo.tm.std;
 
 import static it.uniupo.mdtLib.EnvironmentStaticInterface.RUNNING;
 import static it.uniupo.mdtLib.EnvironmentStaticInterface.HALTED;
