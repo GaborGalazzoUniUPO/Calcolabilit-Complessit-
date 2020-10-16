@@ -27,7 +27,7 @@ public class Run implements RunInterface {
 	private char stateOfRun;
 	private int numberOfSteps;
 
-	Run(MdTInterface tm) {
+	public Run(MdTInterface tm) {
 		runType = EnvironmentStaticInterface.DEFAULT_RUNTYPE;
 		mdt = tm;
 		numberOfSteps = 0;
