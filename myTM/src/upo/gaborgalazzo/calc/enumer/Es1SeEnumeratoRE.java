@@ -14,9 +14,11 @@ public class Es1SeEnumeratoRE {
 	//dall'enumeratore "enumeratore"
 	 void acceptor(String x) {
 		enumeratore.reinit();
-		/*
-		 * da implementare
-		 */
+		while(true){
+			if(enumeratore.next().equals(x)){
+				return;
+			}
+		}
 	}
 	
 	//per il prossimo esercizio serve una macchina accettante
@@ -24,9 +26,11 @@ public class Es1SeEnumeratoRE {
 	//finito, specificato in input
 	  boolean acceptorLimitato(String x, int passi) {
 		enumeratore.reinit();
-		/*
-		 * da implementare
-		 */
+		  for(int i = 0; i<passi; i++){
+			  if(enumeratore.next().equals(x)){
+				  return true;
+			  }
+		  }
 		return false;
 	}
 	
